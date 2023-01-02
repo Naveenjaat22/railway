@@ -1,3 +1,3 @@
-git clone $https://github.com/Naveenjaat22/zaid && cd zaid
+git clone $https://github.com/Naveenjaat22/zaid Zaid && cd zaid
 pip3 install -U -r requirements.txt
 $python3 -m Zaid
